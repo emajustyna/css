@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    margin: 16px;
+}
+.panel{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    margin-bottom: 16px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: blue;
+
+}
+.weird{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    margin-bottom: 16px;
+    border-width: 7px;
+    border-left-style: dashed;
+    border-right-style: double;
+    border-top-style: dotted;
+    border-bottom-style: double;
+    border-color: blue;
+
+}
+.card{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    margin-bottom: 16px;
+    border: 10px solid grey;
+
+}
